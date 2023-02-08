@@ -17,3 +17,5 @@ The institutions and organizations included in this repo are split up into the f
 | University of Florida |  NCDHHS | NICHD DASH |
 | University of Michigan|  Texas State | NIDDK |
 | VUB | | |
+
+Developed with support from Lever for Change and Code for Science & Society.
