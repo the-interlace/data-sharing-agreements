@@ -3,7 +3,7 @@ Sharing proposal data among foundations, bilaterally or with a shared commons of
 * For organizations that have more good proposals than they can fund: this can help match them with future support.
 * For organizations trying to transform a sector with a new call: this can help them make their outreach and review complementary to other ongoing grant processes and solicitations.
 
-This repository captures the range of agreements used for data sharing between funders, or between funders and researchers helping analyse and visualize proposals and outcomes.
+This repository captures the range of agreements used for data sharing between funders, or between funders and researchers helping analyse and visualize proposals and outcomes.  There is also a related [onboarding procedure](https://docs.google.com/document/d/1Xiponc02Mb4ImMA3ktJdHuESAHWHdbgt9U4Uz7LTkpg/edit) for organizations learning how to share data with eachother.
 
 # Data Sharing Agreement Index
 
