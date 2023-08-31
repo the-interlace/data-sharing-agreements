@@ -1,4 +1,4 @@
-# [Data Governance: Sharing Data Between and Across Partner Organizations](https://philanthrobotics.pubpub.org/pub/7r17uboe/release)
+# [Data Governance: Sharing Data Between and Across Partner Organizations]([https://philanthrobotics.pubpub.org/pub/7r17uboe/release](https://philanthrobotics.pubpub.org/pub/7r17uboe/release/2))
 Sharing proposal data among foundations, bilaterally or with a shared commons of grants and proposals, can improve philanthropy.
 * For organizations that have more good proposals than they can fund: this can help match them with future support.
 * For organizations trying to transform a sector with a new call: this can help them make their outreach and review complementary to other ongoing grant processes and solicitations.
